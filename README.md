@@ -1,4 +1,4 @@
-# estiaje-mx
+# Estiaje
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-estiaje-mx is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://estiaje.mx/
+Estiaje provides real‑time alerts for stalled orders and payments in Mexican pesos. It notifies users via phone when a transaction, payment, or message is left incomplete, indicating the amount at risk. The service includes system monitoring and a status page, offering a free starter plan and paid tiers for businesses seeking to reduce financial exposure.
+
+**Areas:** Company · Fintech · Payments · Alerts · Mexico
+
+## Estiaje on APIs.io
+
+Everything profiled for Estiaje is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/estiaje-mx/](https://apis.io/providers/estiaje-mx/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Estiaje API](https://apis.io/apis/estiaje-mx/estiaje-api/) — API for real‑time alerts and monitoring as documented on the Estiaje documentation site.
+- [Estiaje API](https://apis.io/apis/estiaje-mx/estiaje-mx-api/) — Estiaje API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-07); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Estiaje Mx Webhooks](https://apis.io/asyncapis/estiaje-mx/estiaje-mx-webhooks/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Estiaje API Rules](https://apis.io/rules/estiaje-mx/estiaje-mx-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Estiaje Mx Domain Security](https://apis.io/security/estiaje-mx/estiaje-mx-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://estiaje.mx/)
+- [Documentation](https://estiaje.mx/docs)
+- [Blog](https://estiaje.mx/blog)
+
+## API Evangelist rating
+
+**Kin Score 31.0** — thin · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 41.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 0.0 |
+
+**Agent readiness 41.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/estiaje-mx/](https://apis.io/providers/estiaje-mx/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Estiaje: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/estiaje-mx/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
